@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository
+This repository is based of the YouTube Tutorial on [Algorithmic Trading Using Python - Full Course](https://youtu.be/xfzGZB4HhEE)
 
 ## Course Outline
 
